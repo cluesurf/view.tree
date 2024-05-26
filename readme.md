@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/buzz.note/blob/make/view/buzz.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/buzz.tree/blob/make/view/buzz.svg?raw=true' height='256'>
 </p>
 
-<h3 align='center'>buzz.note</h3>
+<h3 align='center'>buzz.tree</h3>
 <p align='center'>
-  The BaseNote Graphics Library
+  The BaseTree Graphics Library
 </p>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ## License
 
-Copyright 2021-2023 <a href='https://term.surf'>TermSurf</a>
+Copyright 2021-2024 <a href='https://term.surf'>TermSurf</a>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
