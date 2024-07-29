@@ -1,0 +1,58 @@
+
+head <Slab>
+
+flow <A slab is a contiguous chunk of memory.>
+
+head <Line>
+
+flow <A line is a contiguous chunk of memory (a slab) divided into elements.>
+
+head <List>
+
+flow <A list is a growable slice if you think of it that way. But it should be implemented as a B+tree.>
+
+head <Text>
+
+flow <Text is made from a growable list of elements, either 8, 16, or 32 bits each. It has a specific encoding. As a growable list, it is implemented as a B+tree, for efficient insert and access.>
+
+flow <The standard encoding is utf-8. All things can be transformed into utf-8, and out of utf-8.>
+
+head <Mark>
+
+flow <A mark is an unsigned integer.>
+
+mark-8
+mark-16
+mark-32
+mark-64
+mark-128
+mark
+
+head <Diff>
+
+flow <A diff is a signed integer.>
+
+diff-8
+diff-16
+diff-32
+diff-64
+diff-128
+diff
+
+head <Comb>
+
+flow <A comb is a float or double, a decimal number.>
+
+comb
+comb-32
+comb-64
+
+head <Walk>
+
+flow <A walk is an iterator.>
+
+From the year 1970, keeps track of the year, the day of the year, and the seconds in the day. Higher precision dates can keep track of fractional seconds based on powers of 10.
+
+We have a date range which is keeps track of accuracy.
+
+300BCE

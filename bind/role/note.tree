@@ -1,0 +1,6 @@
+
+load @termsurf/crow
+  find mind code
+
+role code
+  link ./**/test.link

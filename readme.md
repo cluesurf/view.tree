@@ -6,13 +6,9 @@
 <br/>
 <br/>
 
+<h3 align='center'>view.tree</h3>
 <p align='center'>
-  <img src='https://github.com/termsurf/buzz.tree/blob/make/view/buzz.svg?raw=true' height='256'>
-</p>
-
-<h3 align='center'>buzz.tree</h3>
-<p align='center'>
-  The BaseTree Graphics Library
+  The NoteTree Graphics Library
 </p>
 
 <br/>
