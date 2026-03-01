@@ -8,7 +8,7 @@
 
 <h3 align='center'>view.tree</h3>
 <p align='center'>
-  The TextTree Graphics Library
+  The TermTree Graphics Library
 </p>
 
 <br/>
