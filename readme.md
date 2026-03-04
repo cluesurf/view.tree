@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-<h3 align='center'>view.tree</h3>
+<h3 align='center'>flow.tree</h3>
 <p align='center'>
-  The TermTree Graphics Library
+  The TermTree Graphics/Audio/Interface Library
 </p>
 
 <br/>

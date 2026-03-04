@@ -1,7 +1,7 @@
 
 # cli
 
-load @cluesurf/nest
+load @cluesurf/base
   find task read
   find task write
 
