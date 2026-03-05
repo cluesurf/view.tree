@@ -6,22 +6,52 @@
 <br/>
 <br/>
 
-<h3 align='center'>flow.tree</h3>
+<h3 align='center'>land.tree</h3>
 <p align='center'>
-  The TermTree Graphics/Audio/Interface Library
+  The Seed Physics, Graphics, and Media Library
 </p>
 
 <br/>
 <br/>
 <br/>
 
+## What It Does
+
+`land.tree` covers the visual, physical, and interactive side of Seed
+applications. It provides abstractions for building games, simulations,
+and media-rich apps.
+
+Areas include:
+
+- **Physics**: Collision detection, rigid body dynamics, spatial queries
+- **Graphics**: 2D/3D rendering, shaders, scene graphs
+- **Worlds**: Entity systems, spatial partitioning, terrain
+- **Games**: Input handling, game loops, state machines
+- **Audio**: Synthesis, playback, spatial audio
+- **Video**: Playback, streaming, frame processing
+- **Image**: Loading, manipulation, encoding/decoding
+
+All definitions are written in `.tree` code and compile to native
+platform APIs through the Seed compiler.
+
+## Part of the Seed Ecosystem
+
+| Package   | Purpose                  |
+| --------- | ------------------------ |
+| seed      | Entrypoint and CLI       |
+| make.tree | Compiler                 |
+| flow.tree | Language server          |
+| deck.tree | Package manager          |
+| base.tree | Standard library         |
+| land.tree | Media library (this one) |
+
 ## License
 
-Copyright 2021-2024 <a href='https://clue.surf'>ClueSurf</a>
+Copyright 2021-2026+ <a href='https://clue.surf'>ClueSurf</a>
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License"); you may
+not use this file except in compliance with the License. You may obtain
+a copy of the License at
 
     http://www.apache.org/licenses/LICENSE-2.0
 

@@ -1,3 +1,4 @@
 
-deck @cluesurf/flow
+deck @cluesurf/land
+  head <The Seed Physics, Graphics, and Media Library>
   mark <0.0.1>
